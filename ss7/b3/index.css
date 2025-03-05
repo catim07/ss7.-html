@@ -1,0 +1,11 @@
+*{
+    font-family: "Roboto";
+}
+.modau{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+.full{
+    margin-left: 10px;
+}

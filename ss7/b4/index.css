@@ -1,0 +1,19 @@
+.chuphoto {
+    width: 170px;
+    position: relative;
+    bottom: 100px;
+    left: 10px;
+    color: white;
+}
+.gachngang{
+    width: 170px; 
+    position: relative; 
+    right: 79vh; 
+    bottom: 12vh;
+}
+.chu{
+    width: 180px;
+    position: relative; 
+    bottom: 100px;
+    font-weight: 600;
+}

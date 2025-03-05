@@ -1,0 +1,32 @@
+.khung{
+    border: 2px black solid; 
+    border-radius: 20px;
+}
+.chu{
+    padding-left: 20px; 
+    padding-top: 20px; 
+    padding-bottom: 20px;
+}
+.muiten1{
+    font-size: 30px; 
+    position: relative; 
+    bottom: 55px; 
+    left: 600px;
+}
+.muiten2{
+    font-size: 30px; 
+    position: relative; 
+    bottom: 445px; 
+    left: 600px;
+}
+.muiten3{
+    font-size: 30px; 
+    position: relative; 
+    bottom: 550px; 
+    left: 600px;
+}
+.mau{
+    background-color: rgb(163, 211, 240); padding-left: 20px; 
+    padding-top: 20px; 
+    padding-bottom: 20px;
+}

@@ -1,0 +1,9 @@
+.a1{
+    border: 1px black solid;
+    background-color: white;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    width: 350px;
+    border-radius: 10px;
+}
